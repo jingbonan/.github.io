@@ -5,3 +5,5 @@
 - Nan, J., Tsang, M-Y., Li, J., Köster, M., Henkel, S., Lin, F., and Yao, W., 2023. Postdepositional behavior of molybdenum in deep sediments and implications for paleoredox reconstruction. <strong>Geophysical Research Letters</strong>, 50, e2023GL104706.  [[link]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL104706)
 - Nan, J., Zhu, K., Ren, J., Yao, W., and Peng, X., 2023. Assessing micrometer-scale contamination from organic materials in serpentinite analysis. <strong>Science of the Total Environment</strong>, 903, 166609. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0048969723052348)
 - Nan, J., Tsang, M.Y. and Yao, W., 2024. Organic carbon oxidation and the associated pyrite formation in deep sediments at the Nankai subduction zone. <strong>Marine and Petroleum Geology</strong>, 169, 107081. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0264817224003933)
+
+Check all here [[link]](https://scholar.google.com/citations?hl=en&user=i6XqkJ8AAAAJ&view_op=list_works&sortby=pubdate)
