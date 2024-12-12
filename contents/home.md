@@ -1,6 +1,5 @@
 
 
-https://nigpas.cas.cn/sourcedb/cn/pep/fyjy/202405/t20240515_7162293.html
 
 He is an associate professor at Nanjing Institute of Geology and Palaeontology, focusing on abiotic organic synthesis and its implications for the origin of life, the preservation of Archean biosignatures and their alteration by abiotic processes, as well as the critical bio-essential metal deposition and planetary habitability evolution. 
 
