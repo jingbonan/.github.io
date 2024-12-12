@@ -2,7 +2,7 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Associate Professor at Nanjing Institute of Geology and Palaeontology. He focuses on abiotic organic synthesis and its implications for the origin of life, the preservation of Archean biosignatures and their alteration by abiotic processes, as well as the critical bio-essential metal deposition and planetary habitability evolution. He has published over 20 papers in scientific journals including PNAS, Nature Communications, Geology, Earth and Planetary Science Letters, and Geophysical Research Letters. He is currently a member of the Origin of Life Early-career Network.
 
 #### Email
 jnan@nigpas.ac.cn
