@@ -1,7 +1,6 @@
 
 
-
-He is an associate professor at Nanjing Institute of Geology and Palaeontology, focusing on abiotic organic synthesis and its implications for the origin of life, the preservation of Archean biosignatures and their alteration by abiotic processes, as well as the critical bio-essential metal deposition and planetary habitability evolution. 
+I'm currently an associate professor at Nanjing Institute of Geology and Palaeontology, focusing on abiotic organic synthesis and its implications for the origin of life, the preservation of Archean biosignatures and their alteration by abiotic processes, as well as the critical bio-essential metal deposition and planetary habitability evolution. 
 
 #### Email
 jnan@nigpas.ac.cn
