@@ -8,8 +8,10 @@ He is currently pursuing a Master's Degree in Computer Science, at School of Com
 jnan@nigpas.ac.cn
 
 #### Education
-Ph.D., Marine Geology, Institute of Deep-sea Science and Engineering, Chinese Academy of Sciences, 2017-2021./
-M.E., Earth Science, China University of Geosciences (Beijing), 2015—2017./
+Ph.D., Marine Geology, Institute of Deep-sea Science and Engineering, Chinese Academy of Sciences, 2017-2021.
+
+M.E., Earth Science, China University of Geosciences (Beijing), 2015—2017.
+
 B.E., Engineering in Mineral Resources, China University of Geosciences (Beijing), 2011—2015.
 
 #### Research Interests
