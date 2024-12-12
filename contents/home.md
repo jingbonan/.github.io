@@ -8,11 +8,12 @@ jnan@nigpas.ac.cn
 
 
 #### Past Positions
-- PostDoc, Marine Geology, Institute of Deep-sea Science and Engineering, Chinese Academy of Sciences, 2021—2024.
+- PostDoc, Southern University of Science and Technology, Department of Ocean Science and Engineering, 2021—2024.
 - PostDoc, Center for High Pressure Science and Technology Advanced Research (HPSTAR), 2021.
 
 #### Education
-- Ph.D., Southern University of Science and Technology, Department of Ocean Science and Engineering, 2017—2021.
+- Ph.D., Marine Geology, Institute of Deep-sea Science and Engineering, Chinese Academy of Sciences, 2017—2021.
+  Jiont PhD student, Department of Earth Sciences, Utrecht University, 2018-2019.
 - M.E., Earth Science, China University of Geosciences (Beijing), 2015—2017.
 - B.E., Engineering in Mineral Resources, China University of Geosciences (Beijing), 2011—2015.
 
