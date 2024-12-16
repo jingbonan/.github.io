@@ -6,4 +6,4 @@
 - Nan, J., Zhu, K., Ren, J., Yao, W., and Peng, X., 2023. Assessing micrometer-scale contamination from organic materials in serpentinite analysis. *Science of the Total Environment*, 903, 166609. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0048969723052348)
 - Nan, J., Tsang, M.Y. and Yao, W., 2024. Organic carbon oxidation and the associated pyrite formation in deep sediments at the Nankai subduction zone. *Marine and Petroleum Geology*, 169, 107081. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0264817224003933)
 
-Check all here [[link]](https://scholar.google.com/citations?hl=en&user=i6XqkJ8AAAAJ&view_op=list_works&sortby=pubdate)
+Check all in [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=i6XqkJ8AAAAJ&view_op=list_works&sortby=pubdate)
